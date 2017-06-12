@@ -2,9 +2,9 @@
 layout: post
 title:  "선정한 프로젝트"
 date:   2017-06-13 08:43:59
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
+author: CLY
+categories: guardian
+tags:	hunspell
 cover:  "/assets/instacode.JPG"
 ---
 
