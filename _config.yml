@@ -13,11 +13,11 @@ title: 021B
 subtitle: "Hunspell is our project."
 name: 021B
 description: >
-  한국어 수호자
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
+baseurl: "/021B" # the subpath of your site, e.g. /blog/
 url: "https://17-1-skku-oss.github.io/021B/" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
