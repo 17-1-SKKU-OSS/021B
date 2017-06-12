@@ -14,6 +14,8 @@ No base
 
 프로젝트 선정
 
+전 활동의 WIKI관리
+
 Static Page 관리 ( feat.최서연 in 011A )
 
 
@@ -46,7 +48,7 @@ PULL REQUEST 담당
 
 프로젝트 분석
 
-프로젝트 활동 내역의 ISSUE 관리
+프로젝트 활동 WIKI 관리
 
 
 # Project
