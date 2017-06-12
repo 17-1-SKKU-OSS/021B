@@ -7,18 +7,20 @@ categories: Jekyll
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
-</p>
-</p>
-</p>
-</p>
 
-# 1. 선정한 프로젝트 </p>
+# 1. 선정한 프로젝트 
 
-# 2. 프로젝트 조사 </p>
 
-# 3. 활동 </p>
 
-# ※ 히스토리 </p>
+# 2. 프로젝트 조사 
+
+
+
+# 3. 활동 
+
+
+
+# ※ 히스토리 
 
 
 ### Images
