@@ -5,7 +5,7 @@ date:   2017-06-13 08:43:59
 author: Ben Centra
 categories: Jekyll
 tags:	jekyll welcome
-cover:  "/assets/instacode.png"
+cover:  "/assets/instacode.JPG"
 ---
 
 ## <hunspell 한국어 데이터, 개발 정보>
