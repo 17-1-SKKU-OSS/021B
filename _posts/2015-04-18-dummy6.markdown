@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  "Dummy Post 6"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Dummy
-tags: lorem ipsum
+title:  "프로젝트 조사"
+date:   2017-06-12 08:43:59
+author: CLY
+categories: guardian
+tags: hunspell
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+hunspell의 활용 범위: 리브레오피스나 오픈오피스, 파이어폭스, 오페라, 아파치 등 해외에서 제작된 프로그램에 한글을 지원하기 위해 사용되고 있음
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 활용 방법
+
+1. hunspell 작동 방법을 코드를 통해 파악 / hunspell을 현재 사용되지 않고 있는 다른 프로그램에 이식 (pull-request를 통한 답변을 받지 못함 + 여력이 되지 않아 실패)
+2. hunspell의 맞춤법 검사 - 기준은 윈도우에서 가장 많이 사용하는 한글 오피스 + 표준국어대사전을 통한 검사 시작 (선택!)
+
+### How?
+
+우분투의 리브레오피스의 언어 설정이 한글로 가능하다면, 그것은 hunspell-ko를 기반으로 한 것임. 따라서 리브레오피스에 낱말이나 문장을 적어 맞춤법 검사를 시행하고, 이를 한글 오피스나 표준국어대사전을 통해 검사를 하면 됨.
+-> 찾아낸 오류들을 pull-request를 하여 hunspell-ko의 맞춤법 정확성을 높이는데 기여할 목적
+
