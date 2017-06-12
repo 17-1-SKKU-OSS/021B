@@ -12,6 +12,8 @@ tags: hunspell
 3. 한문어
 에 대해서 맞춤법 오류가 뜨는 경우
 
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+
 ### Images
 
 Lightbox has been enabled for images. To create the link that'll launch the lightbox, add <code>data-lightbox</code> and <code>data-title</code> attributes to an <code>&lt;a&gt;</code> tag around your <code>&lt;img&gt;</code> tag. The result is:
