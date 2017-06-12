@@ -46,7 +46,7 @@ PULL REQUEST 담당
 
 ### what he did?
 
-프로젝트 분석
+프로젝트(hunspell) 분석
 
 프로젝트 활동 WIKI 관리
 
