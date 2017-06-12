@@ -10,6 +10,8 @@ tags: hunspell
 1. 예외 경우
 2. 합성어(한글+한글 or 한문+한문 or 한문+한글)
 3. 한문어
+
+
 에 대해서 맞춤법 오류가 뜨는 경우
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
