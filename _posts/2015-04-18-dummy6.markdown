@@ -7,6 +7,7 @@ categories: guardian
 tags: hunspell
 ---
 
+
 hunspell의 활용 범위: 리브레오피스나 오픈오피스, 파이어폭스, 오페라, 아파치 등 해외에서 제작된 프로그램에 한글을 지원하기 위해 사용되고 있음
 
 ### 활용 방법
