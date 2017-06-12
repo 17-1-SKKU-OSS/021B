@@ -19,7 +19,7 @@ description: >
 # root of your server.
 baseurl: "/021B" # the subpath of your site, e.g. /blog/
 url: "https://17-1-skku-oss.github.io/021B/" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg.JPG"
+cover: "/assets/header_image.JPG"
 logo: "/assets/logo.png"
 
 # Build settings
